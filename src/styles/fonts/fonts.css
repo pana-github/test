@@ -1,0 +1,29 @@
+
+.murecho--bold {
+    font-family: "Murecho", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .murecho--semi-bold{
+      font-family: "Murecho", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+     
+  }
+  .murecho--normal{
+      font-family: "Murecho", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300;
+      font-style: normal;
+  
+  
+  }
+  
+  .murecho--light{
+      font-family: "Murecho", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 100;
+      font-style: normal;
+  }

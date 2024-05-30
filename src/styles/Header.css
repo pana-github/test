@@ -1,0 +1,66 @@
+
+.header{
+    height: auto;
+    width: auto;
+    margin: 5px 0;
+    padding: 10px;
+    padding-left: 30px;
+    padding-bottom: 0;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    gap: 20px;
+    border-bottom: solid 2px #E3E3E3; ;
+  
+  }
+  
+  .header__title{
+    color: black;
+    margin-bottom: 25px;
+    /* text-align: center; */
+    
+  }
+  
+  .header__title--big{
+    font-size: 3.5rem;
+  }
+  
+  .header__nav{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+  
+  .header__nav__element{
+    padding: 3px 3px 0px 3px;
+  }
+  /* Custom styles to remove underline and change text color */
+  a {
+    text-decoration: none !important;
+   /* Change to desired text color */
+  }
+  
+  a:hover{
+    text-decoration: none;
+    color: #8439ED;
+    
+  }
+  
+  
+  
+  .nav__element__link{
+  
+    color: #575461;
+    font-size:1.7rem;
+  
+  
+  }
+  .nav__element__link--active{
+    font-weight: 400;
+    color: #8439ED !important;
+    border-bottom: solid 3px #8439ED;
+  }
+  
+  
+  
